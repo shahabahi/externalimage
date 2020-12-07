@@ -1,1 +1,1 @@
-Show external images in spring boot+mvs+thymeleaf
+Show external images in html file with spring boot+mvs+thymeleaf
